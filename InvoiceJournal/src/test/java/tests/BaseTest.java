@@ -6,7 +6,7 @@ public class BaseTest {
 	
 	@Test
 	public void FirstTest() {
-		System.out.println("Hello TestNG...");
+		System.out.println("Hello TestNG... i ");
 	}
 
 }
